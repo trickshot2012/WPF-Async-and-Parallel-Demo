@@ -171,6 +171,7 @@ namespace WPFUserInterface
 
         void ParallelPrime_Click(object sender, RoutedEventArgs e)
         {
+            resultsWindow.Text = "Detected Number of CPU-Cores "+Environment.ProcessorCount + Environment.NewLine; ;
             var limit = 6_000_000;
             var numbers = Enumerable.Range(0, limit).ToList();
 
