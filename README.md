@@ -1,6 +1,6 @@
 # SimpleAsyncDemo
 
-##Async Website downloading
+## Async Website downloading
 
-##Prime Calculation 
-![Image Screenshot](screenshot.png)
+## Prime Calculation 
+![Image Screenshot](/screenshot.png)
