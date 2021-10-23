@@ -1,2 +1,6 @@
 # SimpleAsyncDemo
-Added TR
+
+##Async Website downloading
+
+##Prime Calculation 
+![Image Screenshot](screenshot.png)
